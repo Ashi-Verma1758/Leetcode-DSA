@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
