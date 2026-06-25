@@ -37,16 +37,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0077-combinations) |
+| [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
