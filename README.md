@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0278-first-bad-version](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0278-first-bad-version) |
 ## Iterator
 |  |
 | ------- |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
