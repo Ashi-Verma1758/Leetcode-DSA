@@ -46,23 +46,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
