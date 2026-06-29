@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0492-construct-the-rectangle) |
 | [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 | [1952-three-divisors](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 | [1952-three-divisors](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
