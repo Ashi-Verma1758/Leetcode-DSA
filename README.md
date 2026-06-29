@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0492-construct-the-rectangle) |
+| [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 ## String
 |  |
 | ------- |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
+## Number Theory
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
