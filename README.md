@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0228-summary-ranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0228-summary-ranges) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
