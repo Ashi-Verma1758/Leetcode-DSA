@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0057-insert-interval](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
