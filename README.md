@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0390-elimination-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0415-add-strings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [3620-network-recovery-pathways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
