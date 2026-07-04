@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0409-longest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0415-add-strings) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0279-perfect-squares) |
