@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [3620-network-recovery-pathways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0441-arranging-coins) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
