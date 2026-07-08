@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0228-summary-ranges) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0274-h-index) |
