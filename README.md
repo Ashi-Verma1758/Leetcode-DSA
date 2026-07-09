@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0006-zigzag-conversion) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0091-decode-ways) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
