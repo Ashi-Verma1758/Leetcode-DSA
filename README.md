@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
