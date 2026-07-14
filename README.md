@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1288-remove-covered-intervals](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
