@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 | [1952-three-divisors](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -240,12 +243,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Iterator
@@ -351,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 | [1952-three-divisors](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
@@ -438,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting Sort
 |  |
 | ------- |
