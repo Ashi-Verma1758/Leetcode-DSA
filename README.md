@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
