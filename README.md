@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0198-house-robber) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
