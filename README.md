@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0390-elimination-game) |
 ## Two Pointers
 |  |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -520,4 +523,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
