@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0274-h-index) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
