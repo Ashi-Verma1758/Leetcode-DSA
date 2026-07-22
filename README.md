@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0171-excel-sheet-column-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
