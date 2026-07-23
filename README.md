@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0207-course-schedule](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0207-course-schedule](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 ## Combinatorics
 |  |
