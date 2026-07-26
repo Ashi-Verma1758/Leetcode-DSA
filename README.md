@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0494-target-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0476-number-complement) |
