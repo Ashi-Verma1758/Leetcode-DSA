@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 | [0887-super-egg-drop](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0887-super-egg-drop) |
 | [1952-three-divisors](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1952-three-divisors) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0506-relative-ranks](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
