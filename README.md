@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Math
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
