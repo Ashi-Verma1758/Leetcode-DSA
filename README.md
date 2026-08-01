@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0518-coin-change-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0494-target-sum) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -617,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
