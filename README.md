@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Math
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2370-longest-ideal-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2370-longest-ideal-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1631-path-with-minimum-effort) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
