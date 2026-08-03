@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3842-toggle-light-bulbs](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3842-toggle-light-bulbs](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3842-toggle-light-bulbs](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
+| [3842-toggle-light-bulbs](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3842-toggle-light-bulbs) |
 ## String Matching
 |  |
 | ------- |
