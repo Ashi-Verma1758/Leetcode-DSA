@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0743-network-delay-time) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -654,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
