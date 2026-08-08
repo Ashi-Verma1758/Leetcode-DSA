@@ -673,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
