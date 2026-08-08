@@ -676,5 +676,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
