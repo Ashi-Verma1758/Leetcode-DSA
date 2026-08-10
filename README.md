@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0887-super-egg-drop) |
 | [1406-stone-game-iii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1952-three-divisors](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [2370-longest-ideal-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2370-longest-ideal-subsequence) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -679,4 +682,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1158-market-analysis-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
