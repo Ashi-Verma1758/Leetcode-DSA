@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1075-project-employees-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1075-project-employees-i) |
 | [1158-market-analysis-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1158-market-analysis-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1661-average-time-of-process-per-machine](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1661-average-time-of-process-per-machine) |
