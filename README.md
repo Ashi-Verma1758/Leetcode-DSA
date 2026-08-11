@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2370-longest-ideal-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2370-longest-ideal-subsequence) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
 |  |
 | ------- |
