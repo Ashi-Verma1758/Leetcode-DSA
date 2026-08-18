@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0887-super-egg-drop) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0877-stone-game) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0409-longest-palindrome) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
