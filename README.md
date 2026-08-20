@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3842-toggle-light-bulbs](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3842-toggle-light-bulbs) |
 ## String Matching
 |  |
