@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0312-burst-balloons) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
