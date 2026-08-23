@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0264-ugly-number-ii) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0461-hamming-distance](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -704,11 +708,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Linked List
@@ -777,4 +783,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
