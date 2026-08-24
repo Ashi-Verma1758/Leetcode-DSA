@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0130-surrounded-regions](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0228-summary-ranges) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0684-redundant-connection) |
 | [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
