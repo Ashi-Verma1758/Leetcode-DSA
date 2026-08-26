@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2370-longest-ideal-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2370-longest-ideal-subsequence) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
