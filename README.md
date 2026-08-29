@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 | [1927-sum-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -751,12 +753,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -827,8 +831,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+| [1392-longest-happy-prefix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
