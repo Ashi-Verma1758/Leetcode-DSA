@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0079-word-search) |
