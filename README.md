@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2370-longest-ideal-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2370-longest-ideal-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1952-three-divisors) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
