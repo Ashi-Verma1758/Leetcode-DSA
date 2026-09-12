@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2370-longest-ideal-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2370-longest-ideal-subsequence) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2126-destroying-asteroids) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
