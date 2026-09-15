@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0887-super-egg-drop) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0858-mirror-reflection) |
 ## Number Theory
 |  |
