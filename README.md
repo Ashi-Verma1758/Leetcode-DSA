@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1563-stone-game-v) |
+| [1903-largest-odd-number-in-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1952-three-divisors) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
