@@ -889,4 +889,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1392-longest-happy-prefix) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
