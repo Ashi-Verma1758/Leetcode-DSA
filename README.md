@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
