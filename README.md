@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
