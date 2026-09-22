@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0868-binary-gap](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0868-binary-gap) |
 | [1720-decode-xored-array](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1720-decode-xored-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
