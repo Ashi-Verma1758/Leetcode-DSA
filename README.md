@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0877-stone-game) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0860-lemonade-change) |
@@ -890,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashi-Verma1758/Leetcode-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
